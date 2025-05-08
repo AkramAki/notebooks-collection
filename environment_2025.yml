@@ -1,7 +1,7 @@
-name: TUDortmundMLSeminar
+name: ml
 dependencies:
   - python=3.12
-  - tensorflow=2.19.0
+  - tensorflow=2.18.0
   - h5py
   - numpy
   - matplotlib
