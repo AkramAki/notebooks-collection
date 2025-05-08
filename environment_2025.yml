@@ -12,6 +12,7 @@ dependencies:
   - seaborn
   - pydot
   - pip
+  - catppuccin-jupyterlab
 
   - pip:
     - wget
